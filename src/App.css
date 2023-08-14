@@ -2,3 +2,9 @@
 	padding: 70px 0;
 	text-align: center;
 }
+
+/* max witdh 450px and responsive for all devices */
+._container {
+	max-width: 450px;
+	margin: 0 auto;
+}
